@@ -1,0 +1,8 @@
+numpy
+scipy
+networkx
+scikit-fuzzy
+gradio
+google-generativeai
+pillow
+rapidfuzz
